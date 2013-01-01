@@ -1,0 +1,9 @@
+inherit gnome2 python
+
+NAME="postr"
+VERSION=0.13
+RELEASE=1
+CATEGORY="GNOME Graphics"
+SUMMARY="GNOME Flickr uploader"
+
+MAKEOPTS+=" postrnautilus_PYTHON= uidir=\$(postrdir)"
