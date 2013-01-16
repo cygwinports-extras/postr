@@ -2,7 +2,7 @@ inherit gnome2 python
 
 NAME="postr"
 VERSION=0.13
-RELEASE=1
+RELEASE=2
 CATEGORY="GNOME Graphics"
 SUMMARY="GNOME Flickr uploader"
 
